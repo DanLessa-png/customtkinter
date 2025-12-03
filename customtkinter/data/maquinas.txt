@@ -1,0 +1,3 @@
+;;;;
+Trator;Grande;2020;12:30;Manuteção
+{"tipo": "trator", "modelo": "grande", "ano": "2020", "horimetro": "12:30", "status": "ativo", "id": "6f3e112b-ece4-47f3-a5bb-adcced9c9074"}
