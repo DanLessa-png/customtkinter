@@ -1,0 +1,1 @@
+[{"id": "1", "nome": "Lessa", "cargo": "Operador de maquinaas", "contato": "(71) 9 0923-3921", "turno": "Noturno", "especialidade": "Tratores"}]

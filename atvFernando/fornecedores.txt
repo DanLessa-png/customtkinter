@@ -1,0 +1,1 @@
+[{"id": "1", "nome": "Agro", "contato": "(71) 9 2321-3212", "rua": "Rua A", "bairro": "Bairro B", "cidade": "Cidade C"}]

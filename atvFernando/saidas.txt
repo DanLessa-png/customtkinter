@@ -1,0 +1,1 @@
+[{"id": "1", "maquina_id": "2", "cliente_id": "3", "tipo_carga": "Madeira", "destino": "Bahia", "horario_entrada": "12:30", "horario_saida": "13:00", "quilometragem_inicial": "100km", "quilometragem_final": "450km"}]
